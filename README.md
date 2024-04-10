@@ -14,3 +14,5 @@
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
 
 ##testing
+
+##fix the new bug
