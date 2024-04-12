@@ -15,8 +15,13 @@
 
 ##testing
 
+<<<<<<< HEAD
 ##fix the new bug
 
 ##fix by feature/fix
 
 #####################
+=======
+
+##causing conflict for merge
+>>>>>>> 5eda41f63a48fc805c012297d447ed51bd305ae5
