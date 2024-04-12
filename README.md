@@ -15,5 +15,12 @@
 
 ##testing
 
+<<<<<<< HEAD
+##fix the new bug
+
+##fix by feature/fix
+
+#####################
+
 
 ##causing conflict for merge
